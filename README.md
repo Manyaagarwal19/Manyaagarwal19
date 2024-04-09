@@ -14,14 +14,6 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/manya-agarwal-67a458219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manya-agarwal-67a458219" height="30" width="40" /></a>
 </p>
 
-### Skills
-![Redhat Linux](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Terraform](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Git and GitHub](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Python](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Docker](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 <h3 align="left">Languages and Tools:</h3>
