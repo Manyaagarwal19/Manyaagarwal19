@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/manya-agarwal" target="blank"><img align="center" src="www.linkedin.com/in/manya-agarwal" alt="www.linkedin.com/in/manya-agarwal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/manya-agarwal-67a458219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manya-agarwal-67a458219" height="30" width="40" /></a>
 </p>
 
 
