@@ -8,9 +8,9 @@
 
 ## About Me 📚
 
-
+  
 Hello! I'm <b>Manya Agarwal<b>, a <b>Cloud and DevOps enthusiast<b>. I worked as a <b>Cloud and DevOps Content Writer<b> at <b>@Darey.io<b>, where I created AWS projects and developed course content. I interned at <b>@Exlearn Technologies<b>, specializing in Linux system administration, networking, and AWS solutions,I also interned at <b>@Linux World Informatics Pvt. Ltd.<b> in <b>Jaipur<b>. I always believe in making things simpler and more efficient through automation and collaboration. Away from the world of codes and servers, I enjoy singing, playing badminton, and listening to the soothing tunes of my favorite songs. 
-
+   
 
 
 
