@@ -1,11 +1,15 @@
 <h1 align="center">Hello ☁️, I'm Manya Agarwal</h1>
 
 # Welcome to my GitHub profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
+
 ![Hello Coders](https://github.com/Manyaagarwal19/Manyaagarwal19/blob/main/hello_coders.gif)
 
 
 ## About Me 📚
- 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br> 
 
 Hello! I'm <b>Manya Agarwal<b>, a <b>Cloud and DevOps enthusiast<b>. I worked as a <b>Cloud and DevOps Content Writer<b> at <b>@Darey.io<b>, where I created AWS projects and developed course content. I interned at <b>@Exlearn Technologies<b>, specializing in Linux system administration, networking, and AWS solutions,I also interned at <b>@Linux World Informatics Pvt. Ltd.<b> in <b>Jaipur<b>. I always believe in making things simpler and more efficient through automation and collaboration. Away from the world of codes and servers, I enjoy singing, playing badminton, and listening to the soothing tunes of my favorite songs. 
 
@@ -34,6 +38,7 @@ Hello! I'm <b>Manya Agarwal<b>, a <b>Cloud and DevOps enthusiast<b>. I worked as
 
 
 ### 🛠️ Languages and Tools
+
 <p>
 
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="40" height="40"/>
@@ -64,6 +69,8 @@ Hello! I'm <b>Manya Agarwal<b>, a <b>Cloud and DevOps enthusiast<b>. I worked as
 </p>
 
 ## 🎵 Hobbies
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
 
 <div align="center">
   <img src="https://img.icons8.com/color/96/000000/musical-notes.png" alt="Musical Notes Icon"/>
@@ -76,7 +83,8 @@ In my free time, I love singing and listening to songs. Music has always been a 
 </div>
 
 ## 🎗️ My Projects & Technical Blogs 🎗️
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
 ### 🔗Projects
 - [Automated AWS Web Server Deployment with Terraform](https://www.linkedin.com/feed/update/urn:li:activity:7122116886657470464/?originTrackingId=skIifR%2FbQzKknChOvWpibQ%3D%3D)
 - [Terraform Infrastructure as Code for AWS VPC and EC2 Instances](https://www.linkedin.com/feed/update/urn:li:activity:7124726222323892224/?originTrackingId=ez5MpS%2BpRjC%2F5iynRL5zZw%3D%3D)
@@ -129,7 +137,8 @@ In my free time, I love singing and listening to songs. Music has always been a 
 </p>
 
 ## 📜 Certifications and Courses
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
 ### 🌟 Linux World Informatics Pvt. Ltd.
 - [![Certificate](https://img.shields.io/badge/-Certificate-blue?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1UIVvaQTp7mfZWHnuv-oC7CzCTO2b4044/view?usp=sharing) **Summer Internship Certificate**
 
